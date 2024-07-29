@@ -1,6 +1,6 @@
 Hi, I’m Siri👋
 - Currently : Student at CVR College of Engineering, Hyderabad.
-- I'm a Frontend Web Developer.
+- I'm a Full Stack Developer.
 
 <!---
 siridevoju/siridevoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
